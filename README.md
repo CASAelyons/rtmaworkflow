@@ -1,2 +1,2 @@
 # rtmaworkflow
-Pegasus 5 workflow for RTMA processing
+Pegasus WMS workflow for processing RTMA data
